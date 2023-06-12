@@ -1,0 +1,10 @@
+* defmain
+
+A helper to simplify command line arguments usage in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/40ants/defmain.git   |
+| commit  | 8e05592  |
+| systems | defmain |
+|---------+-------------------------------------------|
+
