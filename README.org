@@ -4,6 +4,6 @@ A helper to simplify command line arguments usage in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/40ants/defmain.git |
-| commit  | a21a150                                   |
+| commit  | 6392749                                   |
 | systems | defmain                                   |
 |---------+-------------------------------------------|
